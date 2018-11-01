@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<NorthwindProducts>
+	<Products>
+		<ProductID>11</ProductID>
+		<ProductName>Queso Cabrales</ProductName>
+		<QuantityPerUnit>1 kg pkg.</QuantityPerUnit>
+		<UnitPrice>21.0000</UnitPrice>
+		<UnitsInStock>22</UnitsInStock>
+		<UnitsOnOrder>30</UnitsOnOrder>
+		<ReorderLevel>30</ReorderLevel>
+		<Discontinued>false</Discontinued>
+	</Products>
+	<Products>
+		<ProductID>30</ProductID>
+		<ProductName>Nord-Ost Matjeshering</ProductName>
+		<QuantityPerUnit>10 - 200 g glasses</QuantityPerUnit>
+		<UnitPrice>25.8900</UnitPrice>
+		<UnitsInStock>10</UnitsInStock>
+		<UnitsOnOrder>0</UnitsOnOrder>
+		<ReorderLevel>15</ReorderLevel>
+		<Discontinued>false</Discontinued>
+	</Products>
+	<Products>
+		<ProductID>47</ProductID>
+		<ProductName>Zaanse koeken</ProductName>
+		<QuantityPerUnit>10 - 4 oz boxes</QuantityPerUnit>
+		<UnitPrice>9.5000</UnitPrice>
+		<UnitsInStock>36</UnitsInStock>
+		<UnitsOnOrder>0</UnitsOnOrder>
+		<ReorderLevel>0</ReorderLevel>
+		<Discontinued>false</Discontinued>
+	</Products>
+	<Products>
+		<ProductID>12</ProductID>
+		<ProductName>Queso Manchego La Pastora</ProductName>
+		<QuantityPerUnit>10 - 500 g pkgs.</QuantityPerUnit>
+		<UnitPrice>38.0000</UnitPrice>
+		<UnitsInStock>86</UnitsInStock>
+		<UnitsOnOrder>0</UnitsOnOrder>
+		<ReorderLevel>0</ReorderLevel>
+		<Discontinued>false</Discontinued>
+	</Products>
+	<Products>
+		<ProductID>71</ProductID>
+		<ProductName>Flotemysost</ProductName>
+		<QuantityPerUnit>10 - 500 g pkgs.</QuantityPerUnit>
+		<UnitPrice>21.5000</UnitPrice>
+		<UnitsInStock>26</UnitsInStock>
+		<UnitsOnOrder>0</UnitsOnOrder>
+		<ReorderLevel>0</ReorderLevel>
+		<Discontinued>false</Discontinued>
+	</Products>
+	<Products>
+		<ProductID>19</ProductID>
+		<ProductName>Teatime Chocolate Biscuits</ProductName>
+		<QuantityPerUnit>10 boxes x 12 pieces</QuantityPerUnit>
+		<UnitPrice>9.2000</UnitPrice>
+		<UnitsInStock>25</UnitsInStock>
+		<UnitsOnOrder>0</UnitsOnOrder>
+		<ReorderLevel>5</ReorderLevel>
+		<Discontinued>false</Discontinued>
+	</Products>
+	<Products>
+		<ProductID>1</ProductID>
+		<ProductName>Chai </ProductName>
+		<QuantityPerUnit>10 boxes x 20 bags</QuantityPerUnit>
+		<UnitPrice>18.0000</UnitPrice>
+		<UnitsInStock>39</UnitsInStock>
+		<UnitsOnOrder>0</UnitsOnOrder>
+		<ReorderLevel>10</ReorderLevel>
+		<Discontinued>false</Discontinued>
+	</Products>
+	<Products>
+		<ProductID>68</ProductID>
+		<ProductName>Scottish Longbreads</ProductName>
+		<QuantityPerUnit>10 boxes x 8 pieces</QuantityPerUnit>
+		<UnitPrice>12.5000</UnitPrice>
+		<UnitsInStock>6</UnitsInStock>
+		<UnitsOnOrder>10</UnitsOnOrder>
+		<ReorderLevel>15</ReorderLevel>
+		<Discontinued>false</Discontinued>
+	</Products>
+	<Products>
+		<ProductID>69</ProductID>
+		<ProductName>Gudbrandsdalsost</ProductName>
+		<QuantityPerUnit>10 kg pkg.</QuantityPerUnit>
+		<UnitPrice>36.0000</UnitPrice>
+		<UnitsInStock>26</UnitsInStock>
+		<UnitsOnOrder>0</UnitsOnOrder>
+		<ReorderLevel>15</ReorderLevel>
+		<Discontinued>false</Discontinued>
+	</Products>
+	<Products>
+		<ProductID>48</ProductID>
+		<ProductName>Chocolade</ProductName>
+		<QuantityPerUnit>10 pkgs.</QuantityPerUnit>
+		<UnitPrice>12.7500</UnitPrice>
+		<UnitsInStock>15</UnitsInStock>
+		<UnitsOnOrder>70</UnitsOnOrder>
+		<ReorderLevel>25</ReorderLevel>
+		<Discontinued>false</Discontinued>
+	</Products>
+</NorthwindProducts>

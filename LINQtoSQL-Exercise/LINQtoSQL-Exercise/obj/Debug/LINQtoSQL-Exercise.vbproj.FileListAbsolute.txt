@@ -1,0 +1,14 @@
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week9\LINQtoSQL-Exercise\LINQtoSQL-Exercise\bin\Debug\Database1.mdf
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week9\LINQtoSQL-Exercise\LINQtoSQL-Exercise\bin\Debug\Database1_log.ldf
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week9\LINQtoSQL-Exercise\LINQtoSQL-Exercise\bin\Debug\LINQtoSQL-Exercise.exe.config
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week9\LINQtoSQL-Exercise\LINQtoSQL-Exercise\bin\Debug\LINQtoSQL-Exercise.exe
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week9\LINQtoSQL-Exercise\LINQtoSQL-Exercise\bin\Debug\LINQtoSQL-Exercise.pdb
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week9\LINQtoSQL-Exercise\LINQtoSQL-Exercise\bin\Debug\LINQtoSQL-Exercise.xml
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week9\LINQtoSQL-Exercise\LINQtoSQL-Exercise\obj\Debug\LINQtoSQL-Exercise.vbprojAssemblyReference.cache
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week9\LINQtoSQL-Exercise\LINQtoSQL-Exercise\obj\Debug\LINQtoSQL_Exercise.Form1.resources
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week9\LINQtoSQL-Exercise\LINQtoSQL-Exercise\obj\Debug\LINQtoSQL_Exercise.Resources.resources
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week9\LINQtoSQL-Exercise\LINQtoSQL-Exercise\obj\Debug\LINQtoSQL-Exercise.vbproj.GenerateResource.cache
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week9\LINQtoSQL-Exercise\LINQtoSQL-Exercise\obj\Debug\LINQtoSQL-Exercise.vbproj.CoreCompileInputs.cache
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week9\LINQtoSQL-Exercise\LINQtoSQL-Exercise\obj\Debug\LINQtoSQL-Exercise.exe
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week9\LINQtoSQL-Exercise\LINQtoSQL-Exercise\obj\Debug\LINQtoSQL-Exercise.xml
+C:\Users\iyads\Desktop\Fall2018,StarkState\FALL 2018 ADV VISUAL BASIC DEV (CSE230-002-24282 Morosko)\VB.Projetcs\Week9\LINQtoSQL-Exercise\LINQtoSQL-Exercise\obj\Debug\LINQtoSQL-Exercise.pdb
